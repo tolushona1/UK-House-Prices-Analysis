@@ -21,3 +21,5 @@ Bring in additional variables (regional wages, housing supply/completions) to se
 Rebuild the same analysis in SQL and visualise it in Power BI to demonstrate the same finding using a different toolset.
 
 [Housing Prices vs Regional Influences Excel File.xlsx](https://github.com/user-attachments/files/31435171/Housing.Prices.vs.Regional.Influences.Excel.File.xlsx)
+
+<img width="375" height="296" alt="Excel Pivot Tables" src="https://github.com/user-attachments/assets/baeae746-195b-452b-a1e0-eb827d719c47" />
